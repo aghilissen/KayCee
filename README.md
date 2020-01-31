@@ -21,7 +21,7 @@ Now that we have answered the question of the location and timing, we've compare
 ![Opportunities.png](Opportunities.png)
 
 ## The regression
-We were also able to create a model allowing us to underestand what and how features (variables) impact the price of a property. We've run those on the global dataset as well as the area of focus and the following observations have been made:
+We were also able to create a model allowing us to understand what and how features (variables) impact the price of a property. We've run those on the global dataset as well as the area of focus and the following observations have been made:
 * The surface of living and the grade of the building are the variable that have the most impact on the price of a property
 * However compared to the properties out of our zone of focus, these variables seem to be less significant.
 * The average price of a property in our focus area is lower than the average price in the rest of the county.
